@@ -1,0 +1,11 @@
+Install prisma: npm install prisma --save-dev
+
+Initialize prisma: npx prisma init
+
+Define data model: Edit the schema.prisma file
+
+Generate Prisma Client: npx prisma generate
+
+Run migration: npx prisma migrate dev
+
+
